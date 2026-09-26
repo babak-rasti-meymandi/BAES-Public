@@ -35,7 +35,7 @@
 
 Prepare audience framing without creating separate versions of BAES.
 
-- [ ] Academic / Research framing
+- [x] Academic / Research framing
 - [ ] Specialized AI / Technology framing
 - [ ] Large AI-Intensive Enterprise framing
 - [ ] Standards / Governance ecosystem framing
