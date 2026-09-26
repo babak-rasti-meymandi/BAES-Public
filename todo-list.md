@@ -13,23 +13,23 @@
 - [x] Establish disclosure classes (D0–D3)
 - [x] Establish the rule that uncertain disclosure is treated as review-required
 - [x] Establish organization-neutrality for the BAES Core
-- [ ] Perform a deliberate release review before each substantive public addition
+- [x] Perform a deliberate release review before each substantive public addition
 
 ## Phase 1 — Core External Introduction
 
-- [ ] Draft **BAES External Introduction — Core v0.1**
-- [ ] Define the external executive brief
-- [ ] Describe the problem space without exposing restricted research chronology
-- [ ] State what BAES is
-- [ ] State what BAES is not
-- [ ] Present the high-level conceptual architecture
-- [ ] Present the high-level Human–AI interaction model
-- [ ] Present the external view of governance and delegation
-- [ ] Add a synthetic, non-confidential worked example
-- [ ] State current status and known limitations
-- [ ] State explicitly that development evidence is not independent external validation
-- [ ] Define external review questions
-- [ ] Release-review the complete Core package
+- [x] Draft **BAES External Introduction — Core v0.1**
+- [x] Define the external executive brief
+- [x] Describe the problem space without exposing restricted research chronology
+- [x] State what BAES is
+- [x] State what BAES is not
+- [x] Present the high-level conceptual architecture
+- [x] Present the high-level Human–AI interaction model
+- [x] Present the external view of governance and delegation
+- [x] Add a synthetic, non-confidential worked example
+- [x] State current status and known limitations
+- [x] State explicitly that development evidence is not independent external validation
+- [x] Define external review questions
+- [x] Release-review the complete Core package
 
 ## Phase 2 — Audience-Specific Framing
 
