@@ -60,15 +60,23 @@ For every framing:
 
 ## Phase 4 — External Target Research
 
-Only after the Core and audience framings are sufficiently stable:
+**Phase 4 status: IN PROGRESS** — the target-selection basis has been established and release-reviewed.
 
-- [ ] Define target-selection criteria
+- [x] Define target-selection criteria
 - [ ] Research academic/research targets
 - [ ] Research specialized AI/technology targets
 - [ ] Research large AI-intensive enterprise targets
 - [ ] Research standards/governance targets
 - [ ] Record target-specific facts separately from BAES public documents
-- [ ] Do not place target strategy or private assessments in BAES-Public
+- [x] Keep target strategy and private assessments out of BAES Core/public normative documents
+
+### Target Selection Basis
+
+Use `docs/external/17_BAES_External_Target_Selection_Criteria_v0.1.md` as the governing selection basis.
+
+Individual target research must establish documented relevance, review capability, comparative value, practical relevance where applicable, evidence accessibility, audience fit, and scope compatibility.
+
+No ranking or scoring is authorized by this roadmap.
 
 ## Phase 5 — Target-Specific Outreach
 
@@ -114,8 +122,8 @@ Any substantive BAES change remains subject to the existing BAES development and
 1. [x] Complete the public Core external introduction
 2. [x] Complete and release-review the primary audience framings
 3. [x] Complete and release-review the author-profile package
-4. [ ] Define target-selection criteria for Phase 4
-5. [ ] Begin current target research only after the public introduction surface is stable
+4. [x] Define and release-review target-selection criteria
+5. [ ] Begin evidence-based research of Phase 4 target categories
 
 ## Non-Goals
 
