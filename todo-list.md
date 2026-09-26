@@ -36,7 +36,7 @@
 Prepare audience framing without creating separate versions of BAES.
 
 - [x] Academic / Research framing
-- [ ] Specialized AI / Technology framing
+- [x] Specialized AI / Technology framing
 - [ ] Large AI-Intensive Enterprise framing
 - [ ] Standards / Governance ecosystem framing
 
@@ -45,7 +45,7 @@ For every framing:
 - [ ] Preserve the same BAES Core
 - [ ] Change only audience context, emphasis, examples, and review questions
 - [ ] Avoid organization-specific content in the Core
-- [ ] Apply the Claim & Disclosure Control Matrix
+- [x] Apply the Claim & Disclosure Control Matrix
 
 ## Phase 3 — Personal / Author Profile
 
@@ -111,7 +111,7 @@ Any substantive BAES change remains subject to the existing BAES development and
 1. [ ] Draft **BAES External Introduction — Core v0.1**
 2. [ ] Review it against the Claim & Disclosure Control Matrix
 3. [ ] Release the approved Core document to BAES-Public
-4. [ ] Draft the three primary audience framings
+4. [ ] Draft the remaining primary audience framings
 5. [ ] Review and release those documents individually
 6. [ ] Begin current target research only after the public introduction surface is stable
 
