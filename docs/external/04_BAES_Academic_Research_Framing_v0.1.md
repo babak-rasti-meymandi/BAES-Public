@@ -216,6 +216,6 @@ The public BAES repository serves as the **Public Engineering Record** for the e
 
 ---
 
-**Status:** Draft — Academic / Research Framing v0.1
+**Status:** Approved for public release — Academic / Research Framing v0.1
 **Related Core:** BAES External Introduction — Core v0.1
 **Control Basis:** BAES External Claim & Disclosure Control Matrix
