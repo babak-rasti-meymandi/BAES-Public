@@ -38,7 +38,7 @@ Prepare audience framing without creating separate versions of BAES.
 - [x] Academic / Research framing
 - [x] Specialized AI / Technology framing
 - [x] Large AI-Intensive Enterprise framing
-- [ ] Standards / Governance ecosystem framing
+- [x] Standards / Governance ecosystem framing
 
 For every framing:
 
@@ -48,6 +48,8 @@ For every framing:
 - [x] Apply the Claim & Disclosure Control Matrix
 
 ## Phase 3 — Personal / Author Profile
+
+**Phase 2 status: COMPLETE** — all four audience framings have been prepared and release-reviewed.
 
 - [ ] Prepare a concise professional author profile
 - [ ] Prepare a BAES-specific biography
