@@ -42,20 +42,21 @@ Prepare audience framing without creating separate versions of BAES.
 
 For every framing:
 
-- [ ] Preserve the same BAES Core
-- [ ] Change only audience context, emphasis, examples, and review questions
-- [ ] Avoid organization-specific content in the Core
+- [x] Preserve the same BAES Core
+- [x] Change only audience context, emphasis, examples, and review questions
+- [x] Avoid organization-specific content in the Core
 - [x] Apply the Claim & Disclosure Control Matrix
 
 ## Phase 3 — Personal / Author Profile
 
-**Phase 2 status: COMPLETE** — all four audience framings have been prepared and release-reviewed.
+**Phase 3 status: COMPLETE** — the general, BAES-specific, publication/research, and technical author-profile surfaces have been prepared and release-reviewed.
 
-- [ ] Prepare a concise professional author profile
-- [ ] Prepare a BAES-specific biography
-- [ ] Prepare a publication/research profile suitable for academic recipients
-- [ ] Prepare a technical profile suitable for AI/technology organizations
-- [ ] Keep personal profile claims separately reviewable from BAES claims
+- [x] Prepare a concise professional author profile
+- [x] Prepare a BAES-specific biography
+- [x] Prepare a publication/research profile suitable for academic recipients
+- [x] Prepare a technical profile suitable for AI/technology organizations
+- [x] Keep personal profile claims separately reviewable from BAES claims
+- [x] Release-review the author-profile package
 
 ## Phase 4 — External Target Research
 
@@ -110,12 +111,11 @@ Any substantive BAES change remains subject to the existing BAES development and
 
 ## Immediate Next Actions
 
-1. [ ] Draft **BAES External Introduction — Core v0.1**
-2. [ ] Review it against the Claim & Disclosure Control Matrix
-3. [ ] Release the approved Core document to BAES-Public
-4. [ ] Draft the remaining primary audience framings
-5. [ ] Review and release those documents individually
-6. [ ] Begin current target research only after the public introduction surface is stable
+1. [x] Complete the public Core external introduction
+2. [x] Complete and release-review the primary audience framings
+3. [x] Complete and release-review the author-profile package
+4. [ ] Define target-selection criteria for Phase 4
+5. [ ] Begin current target research only after the public introduction surface is stable
 
 ## Non-Goals
 
