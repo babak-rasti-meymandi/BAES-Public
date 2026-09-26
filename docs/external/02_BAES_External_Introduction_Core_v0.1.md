@@ -9,7 +9,7 @@
 
 ## 1. Executive Brief
 
-**BAES (Babak AI Engineering Standard)** is a technology-neutral engineering standard under development and validation for **Human–AI Engineering Interaction**.
+**BAES (Babak AI Engineering Standard)** Is a technology-neutral engineering standard under development for **Human–AI Engineering Interaction**, with the current work being prepared for critical external review.
 
 BAES focuses on the engineering boundaries between:
 
@@ -201,11 +201,11 @@ This example is intentionally synthetic. It does not claim that BAES is necessar
 
 ## 9. Development and Validation Status
 
-BAES is currently **under development and external review**.
+BAES is currently **under development and being prepared for external review**.
 
-The work has undergone structured internal development and testing. Those activities provide development evidence concerning the current formulation.
+The work has undergone structured internal development and testing. Those activities provide development evidence concerning the current formulation; they do not constitute independent external validation.
 
-They should not be interpreted as:
+They should therefore not be interpreted as:
 
 - independent external validation;
 - proof of universal applicability;
@@ -276,6 +276,6 @@ External review, contradiction, identification of redundancy, discovery of limit
 
 ---
 
-**Status:** Active — External Introduction v0.1  
-**Release basis:** Prepared under the BAES External Claim & Disclosure Control Matrix  
+**Status:** Approved for public release — External Introduction v0.1  
+**Release basis:** Reviewed against the BAES External Claim & Disclosure Control Matrix  
 **Repository:** BAES-Public
