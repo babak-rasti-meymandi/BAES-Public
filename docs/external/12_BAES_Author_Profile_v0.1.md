@@ -74,11 +74,14 @@ The appropriate basis for evaluating BAES is therefore its public engineering re
 
 ## 8. Scope and Disclosure Boundary
 
-This public author profile intentionally does not include private employment, funding, residence, migration, organizational negotiation, or other personal strategic objectives.
+This public author profile is intentionally limited to professional background, relevant experience, research interests, and the author's relationship to BAES.
 
-It also does not disclose restricted BAES research material, private research chronology, confidential correspondence, or material from restricted project repositories.
+It is not intended to provide a complete biography or a comprehensive record of the author's professional history.
+
+Private, confidential, or restricted project material is outside the scope of this profile.
 
 The profile is intended to provide sufficient professional context for external readers without turning personal biography into evidence for BAES claims.
+
 
 ## 9. Related Public Record
 
