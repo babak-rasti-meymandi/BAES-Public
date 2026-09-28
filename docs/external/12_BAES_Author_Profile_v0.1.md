@@ -39,6 +39,8 @@ A recurring concern in Babak's work is the relationship between technical system
 
 His engineering perspective emphasizes explicit boundaries, evidence, traceability, stability, long-term maintainability, and careful separation of concepts that can become conflated in complex systems.
 
+In his current Human–AI engineering work, this includes examining the boundaries between human intent, delegation, AI investigation and reasoning, evidence, challenge or recommendation, human decision, authorized execution, result, and traceability. This is a conceptual representation used in BAES, not a mandatory implementation workflow.
+
 This perspective forms part of the background from which BAES has developed, but the public BAES record should be evaluated on its documented technical content rather than on the author's biography alone.
 
 ## 5. Languages
