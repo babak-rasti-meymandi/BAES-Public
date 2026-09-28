@@ -15,7 +15,8 @@ Babak Rasti M. is the **Creator and Principal Developer of BAES (Babak AI Engine
 
 BAES is his current principal engineering and research project in the area of Human–AI Engineering. It is being developed as a technology-neutral engineering standard concerned with boundaries between human intent, authority and delegation, AI reasoning and investigation, evidence, recommendation, decision, authorized execution, traceability, and governance.
 
-BAES is currently under development and is being prepared for critical external technical and research review. The project does not claim independent external validation, universal applicability, formal standards recognition, or demonstrated superiority over existing approaches.
+BAES is currently under development and is being prepared for critical external technical and research review. Its current status should be understood as that of a developing engineering standard, not as a formally recognized standard or a work with independent external validation. BAES does not claim universal applicability or demonstrated superiority over existing approaches; these matters remain open to external examination.
+
 
 ## 3. Professional Background
 
