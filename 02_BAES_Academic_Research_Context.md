@@ -2,91 +2,186 @@
 
 **Audience:** Universities, research institutes, research groups, and engineering-science communities
 
-## 1. Why BAES May Be Relevant to Research
+## 1. The Research Problem
 
-BAES is concerned with the structure of Human–AI Engineering Interaction as AI systems become capable of sustained investigation, reasoning, recommendation, delegation, and execution.
+BAES examines an engineering problem arising from increasingly capable AI systems.
 
-This creates a research surface that crosses several established areas, including:
+As AI systems move from information retrieval toward sustained investigation, reasoning, tool use, recommendation, delegation, and autonomous or semi-autonomous execution, several concepts may become tightly coupled within the same system:
 
-- Human–AI interaction;
-- AI and agentic systems;
-- systems and software engineering;
-- socio-technical systems;
-- AI assurance and safety;
-- authorization and delegation;
-- provenance and traceability;
-- distributed decision-making; and
-- governance of technical systems.
+* human intent;
+* technical capability;
+* delegated authority;
+* AI reasoning;
+* evidence;
+* recommendation;
+* human decision; and
+* authorized execution.
 
-BAES does not claim to replace these fields. Its purpose is to provide an engineering structure in which relationships between them can be described explicitly.
+These concepts are related, but they are not necessarily equivalent.
 
-## 2. Research Focus
+A central question for BAES is whether these distinctions can be represented explicitly enough within engineering systems to remain understandable, traceable, reviewable, and governable as AI capability increases.
 
-The central conceptual relationship is:
+BAES therefore proposes an engineering structure for examining these relationships.
+
+The structure itself remains subject to examination, testing, criticism, comparison, and refinement.
+
+## 2. Why This May Be Research-Worthy
+
+The problem intersects several established research areas without being reducible to any one of them.
+
+Relevant areas include:
+
+* Human–AI Interaction;
+* Human–Computer Interaction;
+* AI and agentic systems;
+* software and systems engineering;
+* socio-technical systems;
+* AI assurance and safety;
+* authorization and delegation;
+* provenance and traceability;
+* distributed decision-making; and
+* governance of technical systems.
+
+BAES does not claim to replace these fields.
+
+Instead, it proposes an engineering surface through which relationships between them can be described and examined explicitly.
+
+## 3. Central Conceptual Relationship
+
+The current BAES conceptual representation is:
 
 **Human Intent → Delegation → AI Investigation / Reasoning → Evidence → Recommendation / Challenge → Human Decision → Authorized Execution → Result → Traceability**
 
-Research associated with BAES can therefore examine questions such as:
+This is a conceptual representation rather than a prescribed workflow.
 
-- how human intent is represented when AI systems participate in complex tasks;
-- how delegated authority differs from technical capability;
-- how AI reasoning and evidence relate to human decisions;
-- how execution boundaries remain explicit as autonomy increases; and
-- how decisions and actions remain traceable across technical and organizational boundaries.
+It is intended to make distinctions visible that can otherwise become implicit within increasingly complex AI-enabled systems.
 
-## 3. Research Character
+## 4. Research Questions
 
-BAES is deliberately technology-neutral and domain-independent. This makes it suitable for examination across different research environments rather than tying the work to one model, platform, or application domain.
+The current formulation of BAES opens questions such as:
 
-Potential research directions may include conceptual analysis, formal or semi-formal modeling, engineering experiments, agent-system studies, traceability studies, comparative work with existing standards, and empirical investigation of Human–AI interaction.
+### Conceptual Questions
 
-The appropriate research method depends on the specific research question.
+* Are the proposed distinctions between intent, authority, reasoning, evidence, decision, and execution sufficiently precise?
+* Which distinctions are fundamental and which are engineering representations?
+* Are any important concepts missing?
 
-## 4. Relationship to Existing Research
+### Engineering Questions
+
+* Can the proposed distinctions be represented in practical AI-enabled systems?
+* Can they remain meaningful across different system architectures?
+* Can they support reviewable and traceable execution?
+* Where do the proposed boundaries become difficult or impossible to maintain?
+
+### Cross-Domain Questions
+
+* Do the distinctions remain meaningful across software engineering, scientific research, medicine, law, archaeology, linguistics, and other domains?
+* Which aspects are domain-independent?
+* Which require domain-specific profiles or policies?
+
+### Comparative Questions
+
+* How does the proposed structure relate to existing approaches in Human–AI Interaction, agent systems, authorization, assurance, provenance, safety engineering, and governance?
+* Does BAES provide useful distinctions that are absent, implicit, or differently represented in existing approaches?
+* Where does BAES overlap with existing work, and where does it not?
+
+### Empirical Questions
+
+* Can the proposed structure be evaluated using realistic AI-enabled systems?
+* Does explicit representation of authority, evidence, decisions, and execution improve traceability or reviewability?
+* What failure modes appear when these distinctions are not explicit?
+
+These questions are intentionally open. The public record does not assume their answers.
+
+## 5. Research Character
+
+BAES is deliberately technology-neutral and domain-independent.
+
+This allows the proposed engineering structure to be examined across different AI architectures, implementations, organizational settings, and application domains.
+
+Potential research methods include:
+
+* conceptual analysis;
+* formal or semi-formal modeling;
+* engineering experiments;
+* agent-system studies;
+* traceability studies;
+* comparative analysis with existing standards and frameworks;
+* case studies; and
+* empirical investigation of Human–AI interaction.
+
+The appropriate method depends on the research question being investigated.
+
+## 6. Relationship to Existing Research
 
 BAES is presented within an existing body of research rather than as an isolated discipline.
 
 Relevant neighboring areas include Human–Computer Interaction, Human–AI Interaction, autonomous and agentic systems, software and systems engineering, AI safety and assurance, authorization, provenance, socio-technical systems, and safety-critical engineering.
 
-BAES is intended to be understood alongside such work and to provide a common engineering surface for discussing the boundaries between intent, authority, reasoning, evidence, decision, execution, and traceability.
+BAES should therefore be evaluated in relation to existing literature, standards, models, and engineering practice.
 
-## 5. Example Research Environment
+The purpose of the public record is not to establish BAES by assertion, but to make its proposed structure sufficiently explicit that others can examine, challenge, compare, test, and refine it.
 
-An AI-assisted engineering system may investigate a failure, gather evidence, form hypotheses, identify uncertainty, recommend an action, and operate under delegated authority.
+## 7. Example Research Environment
 
-A research study can examine whether the resulting record clearly distinguishes:
+Consider an AI-assisted engineering system that investigates a production failure.
 
-- the original human objective;
-- delegated authority;
-- information gathered by the AI;
-- AI reasoning and hypotheses;
-- evidence;
-- recommendations;
-- human decisions;
-- authorization for execution;
-- executed actions; and
-- resulting traceability.
+The system may:
 
-This is an example of a research environment in which BAES concepts can be studied. It is not a claim that BAES is required for that environment.
+1. receive a human-defined objective;
+2. operate within delegated authority;
+3. inspect authorized information;
+4. develop hypotheses;
+5. distinguish observations from assumptions;
+6. collect and evaluate evidence;
+7. produce recommendations;
+8. receive a human decision;
+9. execute an authorized action; and
+10. record the resulting activity and outcome.
 
-## 6. Current Status
+A research study can examine whether the resulting engineering record clearly distinguishes:
 
-BAES is an independent engineering standard under development. The current public record describes the present formulation and provides a basis for understanding the work and its potential research relevance.
+* the original human objective;
+* delegated authority;
+* information gathered by the AI;
+* AI reasoning and hypotheses;
+* evidence;
+* recommendations;
+* human decisions;
+* authorization for execution;
+* executed actions; and
+* resulting traceability.
+
+The example is intentionally simple. Its purpose is to provide a concrete environment in which the proposed distinctions can be examined.
+
+It is not a claim that BAES is required for such systems.
+
+## 8. Current Status
+
+BAES is an independent engineering standard under development.
+
+The current public record describes the present formulation and its development as a documented engineering effort.
 
 BAES is not presented here as a formally recognized academic or external standard.
 
-## 7. Potential Institutional Engagement
+Its concepts, boundaries, models, and applicability remain open to external examination and research.
 
-Academic institutions may find BAES relevant to:
+## 9. Potential Institutional Engagement
 
-- research collaboration;
-- interdisciplinary research programs;
-- engineering and AI research;
-- doctoral or postdoctoral research topics;
-- experimental studies of agentic systems; and
-- research connecting technical systems with organizational decision structures.
+Academic institutions and research groups may find BAES relevant to:
 
-The public record is intentionally concise. Detailed research planning can be developed separately when a concrete academic context exists.
+* research collaboration;
+* interdisciplinary research programs;
+* Human–AI and agent-system research;
+* software and systems engineering research;
+* AI assurance and traceability studies;
+* doctoral or postdoctoral research topics;
+* experimental studies of agentic systems; and
+* research connecting technical systems with organizational decision structures.
+
+Possible engagement could include independent critique, comparative analysis, formalization, empirical evaluation, implementation experiments, or collaborative research.
+
+The public record is intentionally concise. Detailed research planning should be developed within the context of a specific research question, research group, or institutional program.
 
 ---
 
