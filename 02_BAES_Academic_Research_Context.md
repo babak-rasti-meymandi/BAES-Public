@@ -134,12 +134,12 @@ BAES is presented within an existing body of research and engineering practice r
 
 Selected points of reference include:
 
-* **Human–AI Interaction:** Amershi et al., *Guidelines for Human–AI Interaction*, CHI 2019. The work presents 18 design guidelines and reports multiple rounds of evaluation. citeturn1search3
-* **AI assurance and risk:** NIST, *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, NIST AI 100-1 (2023). NIST describes it as a voluntary, use-case-agnostic framework for managing AI risks. citeturn1search6
-* **Authorization:** NIST SP 800-162, *Guide to Attribute Based Access Control (ABAC) Definition and Considerations*. It provides a formalized treatment of authorization based on attributes, policies, rules, and relationships. citeturn2search0
-* **Provenance:** W3C, *PROV Overview* and *PROV Model Primer*. PROV provides a model and related specifications for representing provenance information and the entities, activities, and agents involved in producing or influencing an object. citeturn1search0turn1search7
-* **Ethical and socio-technical systems engineering:** IEEE 7000-2021, *IEEE Standard Model Process for Addressing Ethical Concerns during System Design*, provides a systems-engineering process for incorporating ethical values and traceability into system design. citeturn2search14
-* **AI management and governance:** ISO/IEC 42001:2023 specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within an organization. citeturn2search12
+* **Human–AI Interaction:** Amershi et al., *Guidelines for Human–AI Interaction*, CHI 2019. The work presents 18 design guidelines and reports multiple rounds of evaluation. https://doi.org/10.1145/3290605.3300233
+* **AI assurance and risk:** NIST, *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, NIST AI 100-1 (2023). NIST describes it as a voluntary, use-case-agnostic framework for managing AI risks. https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10
+* **Authorization:** NIST SP 800-162, *Guide to Attribute Based Access Control (ABAC) Definition and Considerations*. It provides a formalized treatment of authorization based on attributes, policies, rules, and relationships. https://csrc.nist.gov/pubs/sp/800/162/upd2/final
+* **Provenance:** W3C, *PROV Overview* and *PROV Model Primer*. PROV provides a model and related specifications for representing provenance information and the entities, activities, and agents involved in producing or influencing an object. https://www.w3.org/TR/prov-overview/
+* **Ethical and socio-technical systems engineering:** IEEE 7000-2021, *IEEE Standard Model Process for Addressing Ethical Concerns during System Design*, provides a systems-engineering process for incorporating ethical values and traceability into system design. https://standards.ieee.org/ieee/7000/6781/
+* **AI management and governance:** ISO/IEC 42001:2023 specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within an organization. https://www.iso.org/standard/42001
 
 These references are not presented as endorsements of BAES, nor as evidence that BAES is equivalent to any of them. They are points of comparison for future examination.
 
@@ -183,9 +183,9 @@ Consider an archaeological and historical-linguistic research task involving Ach
 
 A researcher may ask an AI system to investigate the meaning and historical relationships of terms such as **patikara-** and **pīruš**.
 
-The documented Old Persian form **patikara-** is glossed as “representation, statue, picture” in an Old Persian–English glossary, and is attested in Achaemenid inscriptions. citeturn0search41turn0search2
+The documented Old Persian form **patikara-** is glossed as “picture, carved/incised likeness” in the University of Texas Old Iranian Online dictionary and is attested in Achaemenid inscriptions. https://lrc.la.utexas.edu/eieol_base_form_dictionary/aveol/22
 
-The Old Persian form **pīruš** is attested in Darius I's Susa inscription DSf with the meaning “ivory”; Encyclopaedia Iranica relates Old Persian *pīru-* to the wider Near Eastern *pīru/pēru* word family associated with elephant/ivory terminology. citeturn0search1turn0search0
+The Old Persian form **pīruš** is attested in Darius I's Susa inscription DSf with the meaning “ivory”; Encyclopaedia Iranica relates Old Persian *pīru-* to the wider Near Eastern *pīru/pēru* word family associated with elephant/ivory terminology. https://www.iranicaonline.org/articles/elephant/ https://parsiandej.ir/en/old-persian-corpus/dsf/lines/line-43
 
 For BAES, the research point is not to pre-judge either etymological question. The AI could be delegated to:
 
