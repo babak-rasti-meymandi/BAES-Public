@@ -93,7 +93,23 @@ The current formulation of BAES opens questions such as:
 
 These questions are intentionally open. The public record does not assume their answers.
 
-## 5. Research Character
+## 5. Proposed Evaluation Dimensions
+
+For future examination of the public formulation, BAES proposes the following dimensions:
+
+* **Conceptual clarity**
+* **Boundary distinguishability**
+* **Cross-domain stability**
+* **Traceability**
+* **Reviewability**
+* **Implementability**
+* **Failure/counterexample resistance**
+
+**These are proposed evaluation dimensions, not validated results.**
+
+This section identifies possible examination dimensions only; it does not report empirical validation or claim that BAES has already been demonstrated against them.
+
+## 6. Research Character
 
 BAES is deliberately technology-neutral and domain-independent.
 
@@ -112,17 +128,22 @@ Potential research methods include:
 
 The appropriate method depends on the research question being investigated.
 
-## 6. Relationship to Existing Research
+## 7. Relationship to Existing Research and Standards
 
-BAES is presented within an existing body of research rather than as an isolated discipline.
+BAES is presented within an existing body of research and engineering practice rather than as an isolated discipline.
 
-Relevant neighboring areas include Human–Computer Interaction, Human–AI Interaction, autonomous and agentic systems, software and systems engineering, AI safety and assurance, authorization, provenance, socio-technical systems, and safety-critical engineering.
+Selected points of reference include:
 
-BAES should therefore be evaluated in relation to existing literature, standards, models, and engineering practice.
+* **Human–AI Interaction:** Amershi et al., *Guidelines for Human–AI Interaction*, CHI 2019. The work presents 18 design guidelines and reports multiple rounds of evaluation. citeturn1search3
+* **AI assurance and risk:** NIST, *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, NIST AI 100-1 (2023). NIST describes it as a voluntary, use-case-agnostic framework for managing AI risks. citeturn1search6
+* **Authorization:** NIST SP 800-162, *Guide to Attribute Based Access Control (ABAC) Definition and Considerations*. It provides a formalized treatment of authorization based on attributes, policies, rules, and relationships. citeturn2search0
+* **Provenance:** W3C, *PROV Overview* and *PROV Model Primer*. PROV provides a model and related specifications for representing provenance information and the entities, activities, and agents involved in producing or influencing an object. citeturn1search0turn1search7
+* **Ethical and socio-technical systems engineering:** IEEE 7000-2021, *IEEE Standard Model Process for Addressing Ethical Concerns during System Design*, provides a systems-engineering process for incorporating ethical values and traceability into system design. citeturn2search14
+* **AI management and governance:** ISO/IEC 42001:2023 specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within an organization. citeturn2search12
 
-The purpose of the public record is not to establish BAES by assertion, but to make its proposed structure sufficiently explicit that others can examine, challenge, compare, test, and refine it.
+These references are not presented as endorsements of BAES, nor as evidence that BAES is equivalent to any of them. They are points of comparison for future examination.
 
-## 7. Example Research Environment
+## 8. Example Research Environment
 
 Consider an AI-assisted engineering system that investigates a production failure.
 
@@ -156,7 +177,30 @@ The example is intentionally simple. Its purpose is to provide a concrete enviro
 
 It is not a claim that BAES is required for such systems.
 
-## 8. Current Status
+## 9. Cross-Domain Research Example — Archaeological Research
+
+Consider an archaeological and historical-linguistic research task involving Achaemenid Old Persian cuneiform.
+
+A researcher may ask an AI system to investigate the meaning and historical relationships of terms such as **patikara-** and **pīruš**.
+
+The documented Old Persian form **patikara-** is glossed as “representation, statue, picture” in an Old Persian–English glossary, and is attested in Achaemenid inscriptions. citeturn0search41turn0search2
+
+The Old Persian form **pīruš** is attested in Darius I's Susa inscription DSf with the meaning “ivory”; Encyclopaedia Iranica relates Old Persian *pīru-* to the wider Near Eastern *pīru/pēru* word family associated with elephant/ivory terminology. citeturn0search1turn0search0
+
+For BAES, the research point is not to pre-judge either etymological question. The AI could be delegated to:
+
+1. locate inscriptional attestations and authoritative lexical sources;
+2. compare forms, meanings, chronology, and proposed historical relationships;
+3. distinguish documented evidence from hypotheses;
+4. present competing interpretations and uncertainty;
+5. recommend which claims require further human review; and
+6. leave acceptance of an interpretation and any resulting research-record change to the authorized researcher.
+
+The same BAES distinctions therefore become visible in a domain that is not software engineering: human research intent, delegated AI investigation, evidence, recommendation or challenge, human decision, authorized modification of a research record, and traceability.
+
+The example is illustrative. It does not assert that a proposed relationship between *patikara-* and English *picture*, or between *pīruš* and later forms, is established merely because the forms can be compared.
+
+## 10. Current Status
 
 BAES is an independent engineering standard under development.
 
@@ -166,7 +210,7 @@ BAES is not presented here as a formally recognized academic or external standar
 
 Its concepts, boundaries, models, and applicability remain open to external examination and research.
 
-## 9. Potential Institutional Engagement
+## 11. Potential Institutional Engagement
 
 Academic institutions and research groups may find BAES relevant to:
 
