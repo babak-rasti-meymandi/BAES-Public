@@ -2,7 +2,7 @@
 
 **Public Engineering Record**
 
-BAES (Babak AI Engineering Standard) is a technology-neutral engineering standard under development for **Human–AI Engineering Interaction**.
+BAES (Babak AI Engineering Standard) is a proposed, technology-neutral engineering standard under development for **Human–AI Engineering Interaction**.
 
 BAES focuses on the engineering boundaries between:
 
