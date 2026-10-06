@@ -22,6 +22,8 @@ The purpose of this repository is to provide a concise, public-safe introduction
 
 As AI systems become capable of sustained investigation, reasoning, tool use, recommendation, delegation, and autonomous or semi-autonomous execution, several concepts that are traditionally separated can become tightly coupled within one technical system.
 
+The underlying engineering question is whether these relationships can remain explicit and distinguishable when capability, authority, reasoning, decision-making, and execution increasingly interact within the same system.
+
 In particular, **technical capability, delegated authority, human decision, and authorized execution are not necessarily the same thing**.
 
 BAES explores whether these distinctions can be represented explicitly enough to remain understandable, traceable, reviewable, and governable as AI-enabled systems become more capable.
