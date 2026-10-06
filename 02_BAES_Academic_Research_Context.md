@@ -19,6 +19,8 @@ As AI systems move from information retrieval toward sustained investigation, re
 
 These concepts are related, but they are not necessarily equivalent.
 
+The research problem is therefore not simply whether these concepts can be named separately, but whether their boundaries and relationships can remain explicit, distinguishable, and assessable within increasingly capable AI-enabled systems.
+
 A central question for BAES is whether these distinctions can be represented explicitly enough within engineering systems to remain understandable, traceable, reviewable, and governable as AI capability increases.
 
 BAES therefore proposes an engineering structure for examining these relationships.
