@@ -107,12 +107,6 @@ An enterprise-oriented presentation for organizations operating AI across multip
 
 Professional background and the author's relationship to BAES.
 
-### Evaluation Project
-
-[06 — Foresight AI for Science & Safety Nodes Evaluation](06_Evaluation_Projects/Foresight_AI_Science_Safety_Nodes/README.md)
-
-A bounded research proposal to evaluate semantic deviation, human authorization, and evidence sufficiency in AI-assisted engineering. The project record is public; private BAES development materials remain separate.
-
 ## Public Boundary
 
 This repository contains only material intended for public presentation and explicitly designated public research outputs. Restricted development material and private project strategy are maintained separately.
@@ -121,7 +115,7 @@ The public repository is a **Public Engineering Record**: it presents BAES as wo
 
 ## Repository Scope
 
-The repository primarily introduces and presents BAES and its author. It may also contain clearly separated public evaluation-project records and research outputs. It does not contain the private research history, internal development records, target-selection strategy, or confidential project material.
+The repository primarily introduces and presents BAES and its author. It may also contain clearly separated public research outputs. It does not contain the private research history, internal development records, target-selection strategy, or confidential project material.
 
 ---
 
