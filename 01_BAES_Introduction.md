@@ -7,6 +7,12 @@
 
 **BAES (Babak AI Engineering Standard)** is a technology-neutral engineering standard under development for **Human–AI Engineering Interaction**.
 
+### Name and naming status
+
+The current name of BAES is not necessarily its final or unchangeable name. It identifies the standard's origin and current development stage; it should not be interpreted as a claim that the future institutional or public name has already been permanently settled.
+
+A sponsor formally recognized as a **Founding Sponsor** or **Principal Institutional Partner** may submit a formal proposal for the future naming of BAES. That proposal will receive substantial weight and priority in the review and decision-making process. This recognition provides a meaningful proposal right, not unilateral naming authority, ownership, or control. Any final change remains subject to the applicable BAES approval process.
+
 BAES addresses the engineering relationships and boundaries that arise when AI systems participate in investigation, reasoning, recommendation, decision support, delegated activity, or execution.
 
 Its central concern is not how to build a particular AI system. It is how to keep the relationships between human intent, authority, AI reasoning, evidence, decisions, and execution explicit and traceable.
