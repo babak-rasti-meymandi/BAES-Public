@@ -2,7 +2,7 @@
 
 **Public Engineering Record**
 
-BAES (Babak AI Engineering Standard) is a proposed, technology-neutral engineering standard under development for **Human–AI Engineering Interaction**.
+BAES (Babak AI Engineering Standard) is an established, technology-neutral engineering standard for **Human–AI Engineering Interaction**. Its foundational layer is established and documented; evidence-driven higher-layer development and independent validation continue.
 
 The current name of BAES is not necessarily its final or unchangeable name. A specially recognized Founding Sponsor or Principal Institutional Partner may submit a formal future naming proposal, which receives substantial weight and priority in the review process; this does not confer unilateral naming authority or control. See [BAES Introduction](01_BAES_Introduction.md) for the naming position.
 
@@ -28,11 +28,11 @@ The underlying engineering question is whether these relationships can remain ex
 
 In particular, **technical capability, delegated authority, human decision, and authorized execution are not necessarily the same thing**.
 
-BAES explores whether these distinctions can be represented explicitly enough to remain understandable, traceable, reviewable, and governable as AI-enabled systems become more capable.
+BAES provides an established foundational structure for representing these distinctions explicitly. Their engineering application, performance across contexts, and practical value remain subjects for evidence-driven examination and independent assessment.
 
 This is an engineering problem with potential relevance to Human–AI Interaction, agentic systems, software and systems engineering, AI assurance, authorization, provenance, socio-technical systems, and related fields.
 
-BAES does not claim that its current formulation is the final answer to this problem. The public record documents the development of the proposed engineering structure and provides a basis for further examination.
+BAES does not claim that its current formulation is the final answer to this problem. The public record documents its established Foundation, the continuing development of higher architectural layers, and the evidence and validation work needed for further assessment.
 
 ## What BAES Is
 
@@ -64,7 +64,7 @@ The purpose of the model is to make distinctions and relationships explicit enou
 
 The development of increasingly capable AI systems raises questions about how human intent, delegated authority, AI reasoning, evidence, human decisions, and execution should be represented and distinguished within engineering systems.
 
-BAES provides one proposed structure for examining these relationships.
+BAES provides an established foundational structure for examining these relationships.
 
 Potential research can therefore investigate questions such as:
 
@@ -78,6 +78,12 @@ Potential research can therefore investigate questions such as:
 These are open questions rather than claims of established results.
 
 ## Explore BAES
+
+### Foundation Status & Maturity
+
+[06 — BAES Foundation Status & Maturity](06_BAES_Foundation_Status_and_Maturity.md)
+
+A public statement describing the established Foundation, the status boundaries of higher architectural layers, and the distinction between engineering readiness and independent validation.
 
 ### Core Introduction
 
@@ -113,7 +119,7 @@ Professional background and the author's relationship to BAES.
 
 This repository contains only material intended for public presentation and explicitly designated public research outputs. Restricted development material and private project strategy are maintained separately.
 
-The public repository is a **Public Engineering Record**: it presents BAES as work under development without claiming formal standards recognition or universal applicability.
+The public repository is a **Public Engineering Record**: it presents BAES as an established standard with an established Foundation, while higher-layer development and independent validation continue. It does not claim formal standards recognition, institutional endorsement, certification, or universal applicability.
 
 ## Repository Scope
 
