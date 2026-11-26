@@ -93,9 +93,11 @@ The same engineering distinctions can therefore be considered across different t
 
 ## 7. Current Status
 
-BAES is an independent engineering standard under development. Its public record describes the current formulation and its intended engineering scope.
+BAES is an established, technology-neutral engineering standard with a documented Foundation. Its foundational layer is established; higher-layer engineering development and independent validation continue on an evidence-driven basis.
 
-BAES is not presented as a software framework or as a replacement for existing AI engineering infrastructure.
+The Foundation can serve as a basis for engineering application and evaluation. This does not mean that every implementation or use case has been demonstrated or validated, and independent validation of BAES as a whole has not been completed.
+
+BAES is not presented as a software framework or as a replacement for existing AI engineering infrastructure. No formal standards recognition, certification, accreditation, or institutional endorsement is claimed.
 
 ## 8. Potential Technology Engagement
 
