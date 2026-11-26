@@ -30,7 +30,7 @@ The current BAES work focuses on the boundaries between:
 * traceability; and
 * governance.
 
-BAES is being developed as a technology-neutral engineering standard rather than as a software product or technology-specific framework.
+BAES is an established, technology-neutral engineering standard with a documented Foundation. Higher-layer engineering development and independent validation continue on an evidence-driven basis. It is not a software product or technology-specific framework.
 
 ## Professional Background
 
@@ -84,7 +84,7 @@ These projects illustrate broader technical and interdisciplinary interests. The
 
 ## Public Position
 
-Babak presents BAES as an independent engineering standard under development and as a work intended to be understandable across technical and academic environments.
+Babak presents BAES as an established, independent engineering standard with an established Foundation. Its higher architectural layers continue to develop, and independent validation remains an ongoing activity. The public record distinguishes this maturity position from claims of formal recognition, certification, accreditation, or institutional endorsement.
 
 The public record focuses on the substance of BAES rather than presenting the author's biography as evidence for the validity of the standard.
 
