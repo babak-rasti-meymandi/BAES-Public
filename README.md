@@ -119,7 +119,7 @@ Professional background and the author's relationship to BAES.
 
 This repository contains only material intended for public presentation and explicitly designated public research outputs. Restricted development material and private project strategy are maintained separately.
 
-The public repository is a **Public Engineering Record**: it presents BAES as an established standard with an established Foundation, while higher-layer development and independent validation continue. It does not claim formal standards recognition, institutional endorsement, certification, or universal applicability.
+The public repository is a **Public Engineering Record**: it presents BAES as an established standard with an established Foundation, while higher-layer development and independent validation continue. Independent validation of BAES as a whole has not been completed. The repository does not claim formal standards recognition, institutional endorsement, certification, or universal applicability.
 
 ## Repository Scope
 
