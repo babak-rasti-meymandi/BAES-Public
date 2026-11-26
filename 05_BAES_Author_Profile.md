@@ -8,7 +8,7 @@
 **Software Engineer & Systems Architect**
 **Creator and Principal Architect of BAES**
 
-Babak Rasti M. has **28 years of hands-on experience in software engineering and architecture**, with practical experience spanning software development, systems architecture, operational information technology, and long-lived technical systems.
+Babak Rasti M. has **approximately 28 years of hands-on experience in software engineering and architecture**, with practical experience spanning software development, systems architecture, operational information technology, and long-lived technical systems.
 
 His current work focuses on **Human–AI Engineering**, with BAES as his principal independent engineering and research project in this area.
 
