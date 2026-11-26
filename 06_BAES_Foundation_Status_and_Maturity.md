@@ -28,7 +28,7 @@ The following status statements describe the Foundation at a public level:
 
 - The Foundation Baseline v1.0 is frozen.
 - The Conceptual Core v1.0 is frozen.
-- Three Foundation Models have been registered.
+- Foundation Models have been registered; their number, names, and internal contents are not disclosed in this public statement.
 - A review of the Foundation Models has not demonstrated an independent necessity for an additional Foundation Model at this stage.
 
 This statement intentionally does not publish the names or internal contents of the Foundation Models.
@@ -41,11 +41,11 @@ The frozen Foundation Baseline provides a stable foundational reference for subs
 
 ## 5. Foundation Models
 
-Three Foundation Models have been registered within the BAES architecture.
+Foundation Models have been registered; their number, names, and internal contents are not disclosed in this public statement within the BAES architecture.
 
 Their registration is a statement about the documented architectural status of the Foundation. It should not be interpreted as independent external validation of each model or of the complete standard.
 
-The public statement does not disclose model names, internal specifications, or restricted development material.
+The public statement does not disclose the number, names, internal specifications, or restricted development material associated with the Foundation Models.
 
 ## 6. Higher Architectural Layers
 
@@ -54,7 +54,7 @@ Development above the Foundation continues according to engineering need and evi
 At the time of this statement:
 
 - The Engineering Models layer definition remains in development.
-- One Engineering Model has been registered.
+- The number, identity, and internal content of registered Engineering Models are not disclosed in this public statement.
 - The completion status of Profiles, Policies, and Compliance is not asserted in this statement; each requires separate assessment.
 - No claim is made that every architectural layer must be completed before the established Foundation can be used as a basis for engineering application.
 
@@ -99,7 +99,7 @@ The absence of a demonstrated need for an additional Foundation Model at the tim
 | Foundation Models | Three registered |
 | Review of Foundation Model sufficiency | Completed; no independent necessity for an additional model demonstrated at this stage |
 | Engineering Models layer definition | In development |
-| Registered Engineering Models | One registered |
+| Registered Engineering Models | Not disclosed in this public statement |
 | Profiles | Completion status not asserted in this statement; requires separate assessment |
 | Policies | Completion status not asserted in this statement; requires separate assessment |
 | Compliance | Completion status not asserted in this statement; requires separate assessment |
