@@ -204,7 +204,11 @@ The example is illustrative. It does not assert that a proposed relationship bet
 
 ## 10. Current Status
 
-BAES is an independent engineering standard under development.
+BAES is an established, independent engineering standard with a documented foundational layer. Its Foundation Baseline v1.0 and Conceptual Core v1.0 are frozen, and three Foundation Models have been registered. A review of the Foundation Models has not demonstrated an independent necessity for an additional Foundation Model at this stage.
+
+Higher-layer development continues on an evidence-driven basis. The Engineering Models layer definition remains in development, and one Engineering Model has been registered. The status of other higher architectural layers is not asserted in this document and requires separate assessment.
+
+The Foundation provides an established basis for engineering application and research evaluation. This is distinct from demonstrating the effectiveness of every application or validating BAES as a whole. Independent validation of the complete standard has not been completed.
 
 ### Name and institutional development
 
@@ -212,11 +216,11 @@ The current name of BAES is not necessarily its final or unchangeable name. It i
 
 A sponsor formally recognized as a **Founding Sponsor** or **Principal Institutional Partner** may submit a formal proposal for the future naming of BAES. That proposal will receive substantial weight and priority in the review and decision-making process. The proposal does not itself determine the outcome or transfer ownership or control of BAES; any change remains subject to the applicable approval process.
 
-The current public record describes the present formulation and its development as a documented engineering effort.
+The public record describes the established Foundation and the continuing development and examination of higher architectural layers.
 
-BAES is not presented here as a formally recognized academic or external standard.
+BAES is not presented here as a formally recognized academic or external standard, and no institutional endorsement, certification, or accreditation is claimed.
 
-Its concepts, boundaries, models, and applicability remain open to external examination and research.
+Its engineering application, concepts, boundaries, and applicability remain open to external examination and research.
 
 ## 11. Potential Institutional Engagement
 
