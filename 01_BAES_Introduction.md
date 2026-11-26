@@ -163,8 +163,8 @@ Consider an AI-assisted archaeological and historical-linguistic research task i
 
 A researcher may ask the AI to investigate two lexical questions:
 
-- **patikara-** (𐎱𐎫𐎡𐎣𐎼), documented in Old Persian with meanings such as image, representation, or statue, and its possible historical relationship to later Iranian forms and to the wider history of the word *picture*.
-- **pīruš** (𐎱𐎡𐎽𐎢𐏁), attested in the Darius Susa inscription DSf in the sense “ivory,” and its relationship to the older Near Eastern *pīru/pēru* word family and later Iranian/related forms for elephant or ivory.
+- **patikara-** (𐎱𐎫𐎡𐎣𐎼), documented in Old Persian with meanings such as image, representation, or statue ([University of Texas Old Iranian Online](https://lrc.la.utexas.edu/eieol_base_form_dictionary/aveol/22)), and its possible historical relationship to later Iranian forms and to the wider history of the word *picture*.
+- **pīruš** (𐎱𐎡𐎽𐎢𐏁), attested in the Darius Susa inscription DSf in the sense “ivory” ([DSf line 43](https://parsiandej.ir/en/old-persian-corpus/dsf/lines/line-43)), and its relationship to the older Near Eastern *pīru/pēru* word family and later Iranian/related forms for elephant or ivory ([Encyclopaedia Iranica](https://www.iranicaonline.org/articles/elephant/)).
 
 The BAES distinction is not that the AI should immediately decide the etymology. Instead:
 
