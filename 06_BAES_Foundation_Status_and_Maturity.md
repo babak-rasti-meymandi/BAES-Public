@@ -41,7 +41,7 @@ The frozen Foundation Baseline provides a stable foundational reference for subs
 
 ## 5. Foundation Models
 
-Foundation Models have been registered; their number, names, and internal contents are not disclosed in this public statement within the BAES architecture.
+Foundation Models have been registered; their number, names, and internal contents are not disclosed in this public statement.
 
 Their registration is a statement about the documented architectural status of the Foundation. It should not be interpreted as independent external validation of each model or of the complete standard.
 
