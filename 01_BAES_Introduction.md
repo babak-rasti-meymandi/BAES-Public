@@ -152,27 +152,15 @@ Where execution is delegated, the engineering record should distinguish the auth
 
 The example illustrates the type of interaction BAES addresses; it does not claim that BAES is required for production operations.
 
-## 9. Worked Example — Archaeological Research
+## 9. Worked Example — Civil Aviation Maintenance
 
-Consider an AI-assisted archaeological and historical-linguistic research task involving Achaemenid Old Persian cuneiform.
+Consider an AI-assisted review of a maintenance discrepancy for a civil aircraft.
 
-A researcher may ask the AI to investigate two lexical questions:
+A qualified engineer defines the question and authorizes the AI to inspect a bounded set of maintenance records and approved documentation. The AI identifies a possible inconsistency, cites the relevant source material, and distinguishes what the records state from its own interpretation. It may recommend further inspection or challenge an assumption; it does not itself authorize a maintenance action.
 
-- **patikara-** (𐎱𐎫𐎡𐎣𐎼), documented in Old Persian with the gloss “picture, carved/incised likeness” ([University of Texas Old Iranian Online](https://lrc.la.utexas.edu/eieol_base_form_dictionary/aveol/22)). Any proposed historical relationship to later Iranian forms or to the English word *picture* remains an open etymological question and is not established by this example.
-- **pīruš** (𐎱𐎡𐎽𐎢𐏁), attested in the Darius Susa inscription DSf in the sense “ivory” ([DSf line 43](https://parsiandej.ir/en/old-persian-corpus/dsf/lines/line-43)), and its relationship to the older Near Eastern *pīru/pēru* word family and later Iranian/related forms for elephant or ivory ([Encyclopaedia Iranica](https://www.iranicaonline.org/articles/elephant/)).
+The responsible human evaluates the evidence and determines whether further action is warranted. Any action remains subject to applicable maintenance procedures and human authority, with records linking the original question, evidence, decision, authorization, and outcome.
 
-The BAES distinction is not that the AI should immediately decide the etymology. Instead:
-
-1. **Human Intent:** define the lexical research question and its scope.
-2. **Delegation:** authorize the AI to search specified inscriptions, dictionaries, corpora, and scholarly sources.
-3. **AI Investigation / Reasoning:** compare attestations, transliterations, meanings, chronology, and proposed etymologies.
-4. **Evidence:** preserve the inscriptional occurrences and scholarly sources used for each claim.
-5. **Recommendation / Challenge:** the AI may propose a relationship or challenge a proposed etymology, while identifying uncertainty.
-6. **Human Decision:** the researcher decides whether a proposed interpretation is sufficiently supported for the research purpose.
-7. **Authorized Execution:** if the researcher authorizes a dataset update, annotation, or publication step, that action remains distinct from the AI's linguistic reasoning.
-8. **Result and Traceability:** the resulting annotation or research record should retain the relationship between the question, sources, reasoning, decision, and resulting change.
-
-This example is deliberately framed as an investigation rather than as a claim that a particular etymological relationship has already been established. The Old Persian attestations and meanings themselves are matters for source-based verification.
+This is an illustrative scenario only. It does not claim that BAES has been implemented or validated in aviation maintenance, or that it establishes regulatory compliance.
 
 ## 10. Current Position
 
