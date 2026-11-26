@@ -176,9 +176,9 @@ This example is deliberately framed as an investigation rather than as a claim t
 
 ## 10. Current Position
 
-BAES is an established, independent engineering standard with a documented foundational layer. Its Foundation Baseline v1.0 and Conceptual Core v1.0 are frozen, and three Foundation Models have been registered. A review of the Foundation Models has not demonstrated an independent necessity for an additional Foundation Model at this stage.
+BAES is an established, independent engineering standard with a documented foundational layer. Its Foundation Baseline v1.0 and Conceptual Core v1.0 are frozen, and Foundation Models have been registered; their number, names, and internal contents are not disclosed in this public statement. A review of the Foundation Models has not demonstrated an independent necessity for an additional Foundation Model at this stage.
 
-Development above the Foundation continues on an evidence-driven basis. The Engineering Models layer definition remains in development, and one Engineering Model has been registered. The status of other higher architectural layers is not asserted here and should be assessed separately.
+Development above the Foundation continues on an evidence-driven basis. The Engineering Models layer definition remains in development, and The number, identity, and internal content of registered Engineering Models are not disclosed in this public statement. The status of other higher architectural layers is not asserted here and should be assessed separately.
 
 The established Foundation is available as a basis for engineering application and evaluation. This does not establish that every BAES application has been implemented, demonstrated, or validated. Independent validation of BAES as a whole has not been completed. BAES is not presented as a formally recognized external standard, nor as certified, accredited, or institutionally endorsed.
 
