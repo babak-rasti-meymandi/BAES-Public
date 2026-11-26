@@ -84,7 +84,7 @@ These projects illustrate broader technical and interdisciplinary interests. The
 
 ## Public Position
 
-Babak presents BAES as an established, independent engineering standard with an established Foundation. Its higher architectural layers continue to develop, and independent validation remains an ongoing activity. The public record distinguishes this maturity position from claims of formal recognition, certification, accreditation, or institutional endorsement.
+Babak presents BAES as an established, independent engineering standard with an established Foundation. Its higher architectural layers continue to develop, and independent validation remains an ongoing activity. Independent validation of BAES as a whole has not been completed. The public record distinguishes this maturity position from claims of formal recognition, certification, accreditation, or institutional endorsement.
 
 The public record focuses on the substance of BAES rather than presenting the author's biography as evidence for the validity of the standard.
 
