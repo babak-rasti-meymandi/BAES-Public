@@ -179,28 +179,15 @@ The example is intentionally simple. Its purpose is to provide a concrete enviro
 
 It is not a claim that BAES is required for such systems.
 
-## 9. Cross-Domain Research Example — Archaeological Research
+## 9. Cross-Domain Research Example — Civil Aviation Maintenance
 
-Consider an archaeological and historical-linguistic research task involving Achaemenid Old Persian cuneiform.
+Consider a research study examining how human authorization, evidence, and traceability are represented in an AI-assisted review of civil-aircraft maintenance documentation.
 
-A researcher may ask an AI system to investigate the meaning and historical relationships of terms such as **patikara-** and **pīruš**.
+A qualified engineer may define a bounded review task and authorize an AI system to compare a reported discrepancy with specified maintenance records and approved documentation. The study could examine whether the AI's observations, interpretations, evidence references, recommendations, and the human's subsequent decision remain distinguishable in the resulting record.
 
-The documented Old Persian form **patikara-** is glossed as “picture, carved/incised likeness” in the University of Texas Old Iranian Online dictionary and is attested in Achaemenid inscriptions. [Old Iranian Online — patikara-](https://lrc.la.utexas.edu/eieol_base_form_dictionary/aveol/22)
+The AI's analysis does not itself authorize maintenance action. The responsible human retains the relevant decision authority, and any action remains subject to applicable procedures and authorization.
 
-The Old Persian form **pīruš** is attested in Darius I's Susa inscription DSf with the meaning “ivory”; Encyclopaedia Iranica relates Old Persian *pīru-* to the wider Near Eastern *pīru/pēru* word family associated with elephant/ivory terminology. [Encyclopaedia Iranica — Elephant in the Near East](https://www.iranicaonline.org/articles/elephant/) [DSf line 43](https://parsiandej.ir/en/old-persian-corpus/dsf/lines/line-43)
-
-For BAES, the research point is not to pre-judge either etymological question. The AI could be delegated to:
-
-1. locate inscriptional attestations and authoritative lexical sources;
-2. compare forms, meanings, chronology, and proposed historical relationships;
-3. distinguish documented evidence from hypotheses;
-4. present competing interpretations and uncertainty;
-5. recommend which claims require further human review; and
-6. leave acceptance of an interpretation and any resulting research-record change to the authorized researcher.
-
-The same BAES distinctions therefore become visible in a domain that is not software engineering: human research intent, delegated AI investigation, evidence, recommendation or challenge, human decision, authorized modification of a research record, and traceability.
-
-The example is illustrative. It does not assert that a proposed relationship between *patikara-* and English *picture*, or between *pīruš* and later forms, is established merely because the forms can be compared.
+This is a possible research setting, not a report of an implemented BAES application, a validated outcome, or a claim of regulatory compliance.
 
 ## 10. Current Status
 
