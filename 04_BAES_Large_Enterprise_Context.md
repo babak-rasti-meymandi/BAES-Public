@@ -101,9 +101,11 @@ The same conceptual distinctions can therefore be considered across different en
 
 ## 7. Current Status
 
-BAES is an independent engineering standard under development. Its public record presents the current formulation and intended scope without requiring access to restricted development material.
+BAES is an established, independent engineering standard with a documented Foundation. The Foundation provides a basis for considering and evaluating engineering applications in organizational environments, while higher-layer development and independent validation continue on an evidence-driven basis.
 
-BAES is not presented as a replacement for enterprise governance, security, compliance, risk management, or existing engineering practice.
+This status does not establish that BAES has been implemented or validated across enterprise environments, nor that every potential application is effective. Independent validation of BAES as a whole has not been completed.
+
+BAES is not presented as a replacement for enterprise governance, security, compliance, risk management, or existing engineering practice. No formal standards recognition, certification, accreditation, or institutional endorsement is claimed.
 
 ## 8. Potential Enterprise Relevance
 
