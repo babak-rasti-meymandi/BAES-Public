@@ -31,7 +31,7 @@ The following status statements describe the Foundation at a public level:
 - Foundation Models have been registered; their number, names, and internal contents are not disclosed in this public statement.
 - A review of the Foundation Models has not demonstrated an independent necessity for an additional Foundation Model at this stage.
 
-This statement intentionally does not publish the names or internal contents of the Foundation Models.
+This statement intentionally does not publish the number, names, or internal contents of the Foundation Models.
 
 ## 4. Frozen Foundation Baseline
 
@@ -96,7 +96,7 @@ The absence of a demonstrated need for an additional Foundation Model at the tim
 | BAES identity and scope | Established |
 | Foundation Baseline v1.0 | Frozen |
 | Conceptual Core v1.0 | Frozen |
-| Foundation Models | Three registered |
+| Foundation Models | Registered; number and internal details not disclosed |
 | Review of Foundation Model sufficiency | Completed; no independent necessity for an additional model demonstrated at this stage |
 | Engineering Models layer definition | In development |
 | Registered Engineering Models | Not disclosed in this public statement |
