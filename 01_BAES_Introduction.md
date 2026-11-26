@@ -1,11 +1,11 @@
 # BAES — Introduction
 
 **Public Engineering Record**  
-**Status:** Under development
+**Status:** Established Foundation; evidence-driven higher-layer development and independent validation continue
 
 ## 1. What Is BAES?
 
-**BAES (Babak AI Engineering Standard)** is a technology-neutral engineering standard under development for **Human–AI Engineering Interaction**.
+**BAES (Babak AI Engineering Standard)** is an established, technology-neutral engineering standard for **Human–AI Engineering Interaction**. Its foundational layer is established and documented; higher architectural layers continue to develop according to engineering need and evidence.
 
 ### Name and naming status
 
@@ -181,13 +181,17 @@ This example is deliberately framed as an investigation rather than as a claim t
 
 ## 10. Current Position
 
-BAES is an independent engineering standard under development. Its public presentation describes the current formulation and its intended scope; it does not present BAES as a formally recognized external standard.
+BAES is an established, independent engineering standard with a documented foundational layer. Its Foundation Baseline v1.0 and Conceptual Core v1.0 are frozen, and three Foundation Models have been registered. A review of the Foundation Models has not demonstrated an independent necessity for an additional Foundation Model at this stage.
+
+Development above the Foundation continues on an evidence-driven basis. The Engineering Models layer definition remains in development, and one Engineering Model has been registered. The status of other higher architectural layers is not asserted here and should be assessed separately.
+
+The established Foundation is available as a basis for engineering application and evaluation. This does not establish that every BAES application has been implemented, demonstrated, or validated. Independent validation of BAES as a whole has not been completed. BAES is not presented as a formally recognized external standard, nor as certified, accredited, or institutionally endorsed.
 
 The work is designed to be understandable independently of any particular vendor, technology stack, or implementation environment.
 
 ## 11. Public Engineering Record
 
-This repository presents the public-facing portion of BAES. Restricted development material, private research records, confidential correspondence, and private project strategy are maintained separately.
+This repository presents the public-facing portion of BAES. Restricted development material, private research records, confidential correspondence, and private project strategy are maintained separately. The public status statement in this repository provides the authoritative summary of Foundation maturity and the limits of the claims made here.
 
 The purpose of this public record is straightforward: **to make BAES understandable to organizations and researchers who may find its subject matter relevant.**
 
