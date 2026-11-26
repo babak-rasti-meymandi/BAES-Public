@@ -212,9 +212,6 @@ The Foundation provides an established basis for engineering application and res
 
 ### Name and institutional development
 
-The current name of BAES is not necessarily its final or unchangeable name. It identifies the origin and current development stage of the work; future institutional participation may inform consideration of a different public or institutional name.
-
-A sponsor formally recognized as a **Founding Sponsor** or **Principal Institutional Partner** may submit a formal proposal for the future naming of BAES. That proposal will receive substantial weight and priority in the review and decision-making process. The proposal does not itself determine the outcome or transfer ownership or control of BAES; any change remains subject to the applicable approval process.
 
 The public record describes the established Foundation and the continuing development and examination of higher architectural layers.
 
